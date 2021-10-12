@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello_World/Hello_World.iml" filepath="$PROJECT_DIR$/Hello_World/Hello_World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatementWhitespaceAndIndenting/StatementWhitespaceAndIndenting.iml" filepath="$PROJECT_DIR$/StatementWhitespaceAndIndenting/StatementWhitespaceAndIndenting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/charBoolean/charBoolean.iml" filepath="$PROJECT_DIR$/charBoolean/charBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keywordsAndExpression/keywordsAndExpression.iml" filepath="$PROJECT_DIR$/keywordsAndExpression/keywordsAndExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sTringss/sTringss.iml" filepath="$PROJECT_DIR$/sTringss/sTringss.iml" />
+    </modules>
+  </component>
+</project>
