@@ -11,5 +11,10 @@ public class IfElse {
             System.out.println("Welcome " + name);
         }
 
+        // Logical AND operator
+        if ((battery >= 30) && isHuman){
+            System.out.println("Logged in!");
+        }
+
     }
 }
