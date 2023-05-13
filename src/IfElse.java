@@ -16,5 +16,9 @@ public class IfElse {
             System.out.println("Logged in!");
         }
 
+        // Logical OR operator
+        if (isEmail || isPhoneNumber){
+            System.out.println("Recovery method is set!");
+        }
     }
 }
